@@ -1,0 +1,81 @@
+Exercício C#
+
+1 - Fechar solução no VS
+2 - Novo projeto - console nome - ex001 - Nome Solução - ExerciciM01
+3 - Selecionar a solução, depois a chavinha e marcar ->seleção atual 
+
+## Exercício 001 - (console)
+
+	Mostrar "Temporalizadas" no Console a frase: MEU -> BRASIL -> BRASILEIRO
+	MEU->fundo azul. BRASIL -> fundo Amarelo. BRASILEIRO ->fundo Verde.
+
+## Exercício 002 (Windows Form) ou (WPF)
+
+	Mostrar uma tela centralizada com um botão "INICIAR" que ao clicar mostre 
+	"MEU BRASIL BRASILEIRO" aparecendo
+	as cores no fundo temporalizadas, azul->amarelo->verde.
+
+## Exercício 003 (Console)
+
+	Mostrar no Console:
+
+	Digite um número: 7,85
+	------------------------------
+	Você digitou o valor 7,850
+	A parte inteira do número é 7
+	Arredondando, temos o número 8
+
+## Exercício 004 (Windows Forms)
+
+	Tela centralizada, um label 'Digite um número Real'-> textBox -> Buttom "OK".
+	Clicando no Ok ou Enter: Aparece os labels que estavam invisible.
+	Você digitou o valor 7,850
+	A parte inteira é 7
+	Arredondando, temos 8
+
+## Exercício 005(Console)
+
+ 	Em que ano você nasceu? 1995
+	--------------------------
+	Estamos atualmente no ano de 2018
+	Se você nasceu em 1995, vai ter 23 anos.
+
+## Exercício 006(WPF)
+
+	Tela centralizada
+	Label 'Em que ano você nasceu?'->textBox = 1992 ->buttom ok.
+	Clicando no ok. label aparecem
+	->Estamos no ano de 2018
+	->Quem nasceu em 1992 vai ter 26 anos.
+
+## Exercício 007(Console)
+	SORTEADOR DE NÚMEROS
+	--------------------------
+	Início: 10
+	Fim: 50
+	--------------------------
+	aparece-> sorteando...->some a palavra sorteando e aparece
+	Entre 10 e 50 sorteei o valor 11
+## Exercício 008(WPF)
+	Tela centralizada 
+	label -> início ->textBox -> 50
+	label -> Fim ->textBox -> 100
+	Button -> SORTEAR
+	Ao clicar aparece o label->Sorteando um número entre 50 e 100 -> desaparece e
+	Sorteei o número 54
+## Exercício 009 (Console)
+	produto 1: Carro
+	preço 1: R$70000
+	Produto 2: Tapete de carro
+	preço 2: R$50
+
+	Resultado mostra uma tabela
+	== fundo azul-> Produto     Preço
+	== fundo cinza->Carro       R$ 70.000,00
+			Tapete      R$ 50,00
+	
+	
+
+
+
+
