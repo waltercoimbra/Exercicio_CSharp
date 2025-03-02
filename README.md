@@ -1,2 +1,2 @@
 # Exercicio_CSharp
- exercicio em C#
+ exercicios feitos no ead Estudonauta  em C# para ver no Celular ou Android
