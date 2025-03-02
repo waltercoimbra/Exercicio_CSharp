@@ -8,6 +8,8 @@ Exercício C#
 
 	Mostrar "Temporalizadas" no Console a frase: MEU -> BRASIL -> BRASILEIRO
 	MEU->fundo azul. BRASIL -> fundo Amarelo. BRASILEIRO ->fundo Verde.
+	usar o SetCursorPosition - System.Threading - Thread.Sleep(1000)
+	Console.BackgroundColor = ConsoleColor.Blue; e o ForegroundColor
 
 ## Exercício 002 (Windows Form) ou (WPF)
 
