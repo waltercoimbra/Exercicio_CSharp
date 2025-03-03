@@ -1,0 +1,10 @@
+C:\Users\walte\source\repos\ex001\Ex004\bin\Debug\Ex004.exe.config
+C:\Users\walte\source\repos\ex001\Ex004\bin\Debug\Ex004.exe
+C:\Users\walte\source\repos\ex001\Ex004\bin\Debug\Ex004.pdb
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.Form1.resources
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.Properties.Resources.resources
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.csproj.GenerateResource.cache
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.exe
+C:\Users\walte\source\repos\ex001\Ex004\obj\Debug\Ex004.pdb
