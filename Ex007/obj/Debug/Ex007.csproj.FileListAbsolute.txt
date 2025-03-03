@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\ex001\Ex007\bin\Debug\Ex007.exe.config
+C:\Users\walte\source\repos\ex001\Ex007\bin\Debug\Ex007.exe
+C:\Users\walte\source\repos\ex001\Ex007\bin\Debug\Ex007.pdb
+C:\Users\walte\source\repos\ex001\Ex007\obj\Debug\Ex007.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\ex001\Ex007\obj\Debug\Ex007.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\ex001\Ex007\obj\Debug\Ex007.exe
+C:\Users\walte\source\repos\ex001\Ex007\obj\Debug\Ex007.pdb
