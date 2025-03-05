@@ -1,0 +1,14 @@
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\bin\Debug\net8.0\M02Ex006A.exe
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\bin\Debug\net8.0\M02Ex006A.deps.json
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\bin\Debug\net8.0\M02Ex006A.runtimeconfig.json
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\bin\Debug\net8.0\M02Ex006A.dll
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\bin\Debug\net8.0\M02Ex006A.pdb
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.AssemblyInfoInputs.cache
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.AssemblyInfo.cs
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.dll
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\refint\M02Ex006A.dll
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.pdb
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\M02Ex006A.genruntimeconfig.cache
+C:\Users\walte\source\repos\AmbienteM02\M02Ex006A\obj\Debug\net8.0\ref\M02Ex006A.dll
