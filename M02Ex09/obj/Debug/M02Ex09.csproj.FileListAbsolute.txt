@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\bin\Debug\M02Ex09.exe.config
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\bin\Debug\M02Ex09.exe
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\bin\Debug\M02Ex09.pdb
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\obj\Debug\M02Ex09.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\obj\Debug\M02Ex09.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\obj\Debug\M02Ex09.exe
+C:\Users\walte\source\repos\AmbienteM02\M02Ex09\obj\Debug\M02Ex09.pdb
